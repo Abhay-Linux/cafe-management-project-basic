@@ -34,3 +34,4 @@ if another_order == 'yes':
     else:
         print(f'Ordered item {item_2} is not available!')
 print(f'The total amount of items to pay is {order_total}')
+
