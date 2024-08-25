@@ -2,9 +2,9 @@
 #from pandas.conftest import ordered
 
 menu = {
-    'Pizza': 40,
+    'Pizza': 90,
     'Manchurin':50,
-    'Burger':50,
+    'Burger':40,
     'Paneer Tikka':80,
     'Coffee':70
 }
