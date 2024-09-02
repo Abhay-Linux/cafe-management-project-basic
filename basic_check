@@ -1,3 +1,5 @@
 a='Abhay'
 b='Bora'
+c='mahak'
 print(a+b)
+print(a+c)
