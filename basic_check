@@ -1,5 +1,4 @@
-a='Abhay'
-b='Bora'
-c='mahak'
-print(a+b)
-print(a+c)
+a=23
+b=234
+c=34
+print(a+b*c)
