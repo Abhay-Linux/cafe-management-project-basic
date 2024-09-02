@@ -6,7 +6,7 @@ menu = {
     'Manchurin':50,
     'Burger':40,
     'Paneer Tikka':80,
-    'Coffee':70
+    'Coffee':100
 }
 
 
